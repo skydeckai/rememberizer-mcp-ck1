@@ -1,6 +1,6 @@
 # Rememberizer MCP Server for Common Knowledge
 <!-- CK_DESCRIPTION_START -->
-changed ck
+checked ck
 <!-- CK_DESCRIPTION_END -->
 
 Please note that `rememberizer-mcp-ck1` is currently in development and the functionality may be subject to change.
